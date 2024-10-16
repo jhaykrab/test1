@@ -1,0 +1,15 @@
+h1 {
+    color: #092e20;
+}
+body {
+    background-color: whitesmoke;
+}
+
+header {
+    background: whitesmoke;
+}
+
+.mylogo {
+    height: 300px;
+    width: auto;
+}
